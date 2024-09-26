@@ -82,7 +82,7 @@
                               <p><strong>Discovered Now</strong></p>
                            </div>
                            <div class="swatch1" style="display: flex;margin-left: 300px;">
-                              <img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 7.png" alt="watch" style="height:120px ;width: 180px;">
+                              <img src="/src/views/image/image 7.png" alt="watch" style="height:120px ;width: 180px;">
   
                            </div>
                           </div>
@@ -93,7 +93,7 @@
                               <p><strong>Discovered Now</strong></p>
                            </div>
                            <div class="swatch2-2">
-                              <img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 8.png" alt="watch" style="height: 120px;width: 180px;margin-left: 330px;">
+                              <img src="/src/views/image/image 8.png" alt="watch" style="height: 120px;width: 180px;margin-left: 330px;">
   
                            </div>
                           </div>
@@ -109,7 +109,7 @@
                       <div class="img-section" style="display: flex;width: 255px;height: 381px;justify-content: center; ">
                           <div class="img-section" style="background-color: #ffff;display:flex;justify-content: center; ">
                           <div class="img-4se" style="display: grid;line-height: 25px;gap: 10px;" >
-                              <img src="c:\Users\User\Desktop\ecomerce\src\views\image\Mask Group (7).png" alt="watch" style="width: 207px;height: 221px;">
+                              <img src="/src/views/image/Mask Group (7).png" alt="watch" style="width: 207px;height: 221px;">
                               <div class="leo1" style="display: grid;margin-right:130px ; "><h4 style="display: flex;margin-left: 15px">Singo Maple</h4>
                               <p>20% Off</p>
                           <p>Rp 1.500.000</p>
@@ -129,9 +129,9 @@
                       </div>
                       <div class="img-section" style="width: 255px;height: 381px;background-color: #ffff; border:none;">
                           <div class="img-2se" style="display: grid;line-height: 25px;gap: 10px" >
-                              <img src="c:\Users\User\Desktop\ecomerce\Mask Group (6).png" alt="watch" style="width: 207px;height: 221px;">
+                              <img src="/src/views/image\Mask Group (6).png" alt="watch" style="width: 207px;height: 221px;">
                               <div class="leo1" style="display: grid;margin-right:140px ; "><h4>Singo Ebony</h4>
-                              <p>20% Off</p>
+                            <p>20% Off</p>
                           <p>Rp 1.500.000</p>
                       </div>
   
@@ -140,7 +140,7 @@
                            <div class="heart-1" style="display: flex;color:none;font-size: 24px;border: 1px red"><button style="background-color:#ffff;border: 1px solid #D84727;height:39px ;"><img src="c:\Users\User\Desktop\ecomerce\src\views\image\love.png" alt="heart"></button></div>
                            <div class="heart-btn1" style="display: flex;width: 158px;height: 39px;border: 1px solid #D84727;background-color: #D84727;align-items: center;justify-content: center;">
                                <p>Add to cart</p>
-  
+
                            </div>
                      
                    </div>
@@ -149,7 +149,7 @@
                       </div>
                       <div class="img-section" style="width: 255px;height: 381px;background-color: #ffff; ">
                           <div class="img-3se" style="display: grid;line-height:  25px;gap: 10px;" >
-                              <img src="c:\Users\User\Desktop\ecomerce\Mask Group (8).png" alt="watch" style="width: 207px;height: 221px;">
+                              <img src="/src/views/image/Mask Group (8).png" alt="watch" style="width: 207px;height: 221px;">
                               <div class="leo1" style="display: grid;margin-right:140px ; "><h4>Rakai Ebony</h4>
                               <p>20% Off</p>
                           <p>Rp 1.500.000</p>
@@ -157,7 +157,7 @@
   
                       <div class="heartmain-1" style="display: flex;gap: 10px;">  
                            
-                           <div class="heart-1" style="display: flex;color:none;font-size: 24px;border: 1px red"><button style="background-color:#ffff;border: 1px solid #D84727;height:39px ;"><img src="c:\Users\User\Desktop\ecomerce\src\views\image\love.png" alt="heart"></button></div>
+                           <div class="heart-1" style="display: flex;color:none;font-size: 24px;border: 1px red"><button style="background-color:#ffff;border: 1px solid #D84727;height:39px ;"><img src="\src\views\image\love.png" alt="heart"></button></div>
                            <div class="heart-btn1" style="display: flex;width: 158px;height: 39px;border: 1px solid #D84727;background-color: #D84727;align-items: center;justify-content: center;">
                                <p>Add to cart</p>
   
@@ -168,7 +168,7 @@
                       </div>
                       <div class="img-section" style="width: 255px;height: 381px;background-color: #ffff; ">
                         <div class="img-3se" style="display: grid;line-height:  25px;gap: 10px;" >
-                            <img src="c:\Users\User\Desktop\ecomerce\Mask Group (9).png" alt="watch" style="width: 207px;height: 221px;">
+                            <img src="/src/views/image/Mask Group (9).png" alt="watch" style="width: 207px;height: 221px;">
                             <div class="leo1" style="display: grid;margin-right:140px ; "><h4>Rakai Ebony</h4>
                             <p>20% Off</p>
                         <p>Rp 1.500.000</p>
@@ -176,7 +176,7 @@
 
                     <div class="heartmain-1" style="display: flex;gap: 10px;">  
                          
-                         <div class="heart-1" style="display: flex;color:none;font-size: 24px;border: 1px red"><button style="background-color:#ffff;border: 1px solid #D84727;height:39px ;"><img src="c:\Users\User\Desktop\ecomerce\src\views\image\love.png" alt="heart"></button></div>
+                         <div class="heart-1" style="display: flex;color:none;font-size: 24px;border: 1px red"><button style="background-color:#ffff;border: 1px solid #D84727;height:39px ;"><img src="/src/views/image/love.png" alt="heart"></button></div>
                          <div class="heart-btn1" style="display: flex;width: 158px;height: 39px;border: 1px solid #D84727;background-color: #D84727;align-items: center;justify-content: center;">
                              <p>Add to cart</p>
 
@@ -198,11 +198,11 @@
                   <div class="wher-1" style="margin-top: 200px;line-height: 40px;padding-right:300px">
                       <p>Where To Travel</p>
                       <h2 style="width: 300px;">Matoa Where To Travel? Yogyakarta</h2>
-                      <button style="width: 160px;height: 58px;color: #D84727;border: 1px solid #D84727;margin-top: 30px;">Discover</button>
+                      <button class="wherebtn">Discover</button>
                   </div>
                   <div class="wher-2" style="padding-bottom:500px">
                       <div class="bg" style="height: 500px;width: 500px;background-color: #F1DDC9;position: relative;margin-bottom:300px">
-                      <img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 13.png" alt="pho" style="height:500px;width:500px;position: absolute;top: 70px;right: 130px;">
+                      <img src="/src/views/image/image 13.png" alt="pho" style="height:500px;width:500px;position: absolute;top: 70px;right: 130px;">
                       </div>
                   </div>
                   </div>
@@ -213,7 +213,7 @@
                           <div class="all-1" style="display: grid ; gap:80px;">
                               <h2>Maple Series</h2>
                               <div class="all1-lo" style="display: flex; gap: 50px;">
-                                  <img src="c:\Users\User\Desktop\ecomerce\image 15.png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
+                                  <img src="/src/views/image/image 15.png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
                                   <div class="padding" style="display:grid">
                                   <P style="width:100px">Way Kambas Maple</P>
                                   <h3>Rp 1.280.000</h3>
@@ -221,7 +221,7 @@
                               </div>
                               
                               <div class="all1-lo" style="display: flex; gap: 50px">
-                                  <img src="c:\Users\User\Desktop\ecomerce\image 21.png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
+                                  <img src="/src/views/image/image 21.png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
                                   <div class="padding1"  style="display:grid">
                                   <P style="width:100px">Kaili</P>
                                   <h3>Rp 950.000</h3>
@@ -229,7 +229,7 @@
                               </div>
                               
                               <div class="all1-lo" style="display: flex; gap: 50px">
-                                  <img src="c:\Users\User\Desktop\ecomerce\image 16 (1).png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
+                                  <img src="/src/views/image/image 16 (1).png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
                                   <div class="padding2" style="display: grid;">
                                       <p style="width:100px">Sunda</p>
                                   <h3>Rp 1.170.000</h3>
@@ -240,7 +240,7 @@
                               <h2>Ebony Series</h2>
                               <div class="all1-lo" style="display: flex; gap: 50px;">
                                   
-                                  <img src="c:\Users\User\Desktop\ecomerce\image 20.png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
+                                  <img src="/src/views/image/image 20.png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
                                   <div class="padding3" style="display:grid;">
                                   <P style="width:100px">Tomia Ebony</P>
                                   <p style="font-size: 14px;">Rp 1.280.000</p>
@@ -249,7 +249,7 @@
                               </div>
                               
                               <div class="all1-lo" style="display: flex; gap: 50px;">
-                                  <img src="c:\Users\User\Desktop\ecomerce\image 22.png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
+                                  <img src="/src/views/image/image 22.png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
                                   <div class="padding4" style="display:grid">
                                   <P style="width:100px">Mori</P>
                                   <h3>Rp 950.000</h3>
@@ -257,7 +257,7 @@
                               </div>
                               
                               <div class="all1-lo" style="display: flex;  gap: 50px;">
-                                  <img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 23.png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
+                                  <img src="/src/views/image/image 23.png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
                                   <div>
                                   <P style="width:100px">Lorem ipsum dolor sit amet, consectetur?</P>
                                   </div>
@@ -266,17 +266,17 @@
                               <div class="all-1" style="display: grid ; gap: 80px;">
                               <h2 >Featured</h2>
                               <div class="all1-lo" style="display: flex;  gap: 50px;">
-                                  <img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 17.png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
+                                  <img src="/src/views/image/image 17.png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
                                   <P style="width:100px">Lorem ipsum dolor sit amet, consectetur?</P>
                               </div>
                               
                               <div class="all1-lo" style="display: flex;  gap: 50px;">
-                                  <img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 18.png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
+                                  <img src="/src/views/image/image 18.png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
                                   <P style="width:100px">Lorem ipsum dolor sit amet, consectetur?</P>
                               </div>
                               
                               <div class="all1-lo" style="display: flex;  gap: 50px;">
-                                  <img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 19 (1).png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
+                                  <img src="/src/views/image/image 19 (1).png" alt="ph" style="height: 100px;width: 100px;background-color:#F1DDC9">
                                   <P style="width:100px">Lorem ipsum dolor sit amet, consectetur?</P>
                               </div>
                               </div>
@@ -296,13 +296,15 @@
     ">
                   
                   <div class="wher-1" style="margin-top: 200px;line-height: 40px;">
-                      <p>Where To Travel</p>
-                      <h2 style="width: 300px;">Matoa Where To Travel? Yogyakarta</h2>
-                      <button style="width: 160px;height: 58px;color: #D84727;border: 1px solid #D84727;margin-top: 30px;">Discover</button>
+                    <h1 style="font-size:34px;"> <span style="border:1px solid #000;border-top:none;border-left:none;border-right:none;">Test</span>imonials</h1>
+                      <p style="line-height:30px;font-size:16px;padding-top:50px">Loving my new KAILI watch from @matoa_id, the first ever Indonesian watch local brand that uses wood as their main material. Like any other Matoa products, KAILI is inspired by Indonesian heritage.</p>
+                   <h4 style="font-size:20px;padding-top:30px;margin-top:50px">Gita Savitri</h4>
+                   <p >Content Creator/Influencer</p>
+                     
                   </div>
                   <div class="wher-2">
                       <div class="bg" style="height: 500px;width: 500px;background-color: #F1DDC9;position: relative;">
-                      <img src="c:\Users\User\Desktop\ecomerce\src\views\image\Mask Group (11).png" alt="pho" style="height:500px;width:500px;position: absolute;top: 70px;left: 130px;">
+                      <img src="/src/views/image/Mask Group (11).png" alt="pho" style="height:500px;width:500px;position: absolute;top: 70px;left: 130px;">
                       </div>
                   </div>
                   </div>
@@ -314,11 +316,11 @@
                     <div class="llgg">
                       
                       <div class="ig-img" style="display: flex;justify-content: center;padding-left:200px; ">
-                          <img src="c:\Users\User\Desktop\ecomerce\src\views\image\Rectangle 38.png" alt="ph1" style="width: 200px;height: 200px;">
-                          <img src="c:\Users\User\Desktop\ecomerce\src\views\image\Rectangle 39.png" alt="ph1" style="width: 200px;height: 200px;">
-                          <img src="c:\Users\User\Desktop\ecomerce\src\views\image\Rectangle 40 (1).png" alt="ph1" style="width: 200px;height: 200px;">
-                          <img src="c:\Users\User\Desktop\ecomerce\src\views\image\Rectangle 41.png" alt="ph1" style="width: 200px;height: 200px;">
-                          <img src="c:\Users\User\Desktop\ecomerce\src\views\image\Rectangle 42.png" alt="ph1" style="width: 200px;height: 200px;">
+                          <img src="/src/views/image/Rectangle 38.png" alt="ph1" style="width: 200px;height: 200px;">
+                          <img src="/src/views/image/Rectangle 39.png" alt="ph1" style="width: 200px;height: 200px;">
+                          <img src="/src/views/image/Rectangle 40 (1).png" alt="ph1" style="width: 200px;height: 200px;">
+                          <img src="/src/views/image/Rectangle 41.png" alt="ph1" style="width: 200px;height: 200px;">
+                          <img src="/src/views/image/Rectangle 42.png" alt="ph1" style="width: 200px;height: 200px;">
                       </div>
                     </div>
                   </div>
@@ -423,5 +425,26 @@ header{
 }
 footer{
     margin-top: 300px;
+}
+.wherebtn{
+    width: 160px;
+    height: 58px;
+    color: #D84727;
+    border: 1px solid #D84727;
+    margin-top: 30px;
+    background-color: #F7F6F4;
+
+}
+
+.wherebtn:hover{
+    width: 160px;
+    height: 58px;
+    margin-top: 30px;
+    border: 1px solid #D84727;
+    color:#000 ;
+    background-color:#D84727 ;
+}
+.wher-1{
+  
 }
 </style>

@@ -43,13 +43,13 @@
         <div class="main-herocontainer grid-2--main"  >
             <div class="cl1-main">
                 <div class="watches-colu">
-                    <img src="c:\Users\User\Desktop\ecomerce\image 37.png" alt="watch">
-                    <img src="c:\Users\User\Desktop\ecomerce\image-removebg-preview 1 (1).png" alt="watch">
-                    <img src="c:\Users\User\Desktop\ecomerce\image-removebg-preview1 1.png" alt="watch">
-                    <img src="c:\Users\User\Desktop\ecomerce\image-removebg-preview2 1.png" alt="watch">
+                    <img src="/src/views/image/image 37.png" alt="watch">
+                    <img src="/src/views/image/image-removebg-preview 1 (1).png" alt="watch">
+                    <img src="/src/views/image/image-removebg-preview1 1.png" alt="watch">
+                    <img src="/src/views/image/image-removebg-preview2 1.png" alt="watch">
                   
                 </div>
-                <img src="c:\Users\User\Desktop\ecomerce\image 6 (3).png" alt="watch" class="img-cl1">
+                <img src="/src/views/image/image 6 (3).png" alt="watch" class="img-cl1">
 
             </div>
             <div class="cl2-main" >
@@ -59,6 +59,8 @@
                   
                 <h1 style="padding-bottom:10px">WAY KAMBAS <br>
                     MINI EBONY</h1>
+
+
                 <p>Rp 1.280.000</p>
                 <h4>Rp 1.024.000</h4>
                 <p><strong>Choose Model</strong></p>

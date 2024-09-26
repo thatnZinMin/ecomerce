@@ -40,7 +40,7 @@
             <div class="section1 ">
             <Router-link to="/or">
                 <div class="llly2">
-                    <img src="c:\Users\User\Desktop\ecomerce\checkout (1).png" alt="cl">
+                    <img src="/src/views/image/checkout (1).png" alt="cl">
                     <p style="width :320px">1. Checkout</p>
                    </div>
                 </Router-link>
@@ -48,14 +48,14 @@
                     <span style="padding-top:50px;">_____</span>
                 <Router-link to="/d">
                     <div class="llly2">
-                        <img src="c:\Users\User\Desktop\ecomerce\payment (2).png" alt="cl">
+                        <img src="/src/views/image/payment (2).png" alt="cl">
                         <p style="width :320px">2. Payment </p>
                        </div>
                     </Router-link>
                         <span  style="padding-top:50px;">_____</span>
                     <Router-link to="/co">
                         <div class="llly2">
-                            <img src="c:\Users\User\Desktop\ecomerce\src\views\image\confirm (4).png" alt="cl">
+                            <img src="/src/views/image/confirm (4).png" alt="cl">
                             <p style="width :320px"> 3. Confirmation</p>
                            </div>
                         </Router-link>

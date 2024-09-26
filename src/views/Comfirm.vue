@@ -16,7 +16,7 @@
 <div class="icon-nav" style="display: flex;">
 <div class="nav1" style="display: flex;justify-content: space-around;align-items: center;gap: 12px;">
 <a href="#">
-    <img src="/src/views/image/search (1).png" alt="search" style="height:32px;width: 32px;">
+   
 </a>
 <a href="#">
     <img src="/src/views/image/user (1).png" alt="user" style="height: 24px;width: 24px;">
@@ -42,7 +42,7 @@
             <Router-link to="/or">
                 <div class="llly2">
                     
-                    <img src="c:\Users\User\Desktop\ecomerce\checkout.png" alt="cl">
+                    <img src="/src/views/image/checkout.png" alt="cl">
                     <p style="width :320px">1. Checkout</p>
                    </div>
                 </Router-link>
@@ -51,7 +51,7 @@
                     <Router-link to="/d">
                     <div class="llly2">
                        
-                        <img src="c:\Users\User\Desktop\ecomerce\payment.png" alt="cl">
+                        <img src="/src/views/image/payment.png" alt="cl">
                         <p style="width :320px">2. Payment </p>
                       
                        </div>
@@ -60,7 +60,7 @@
                         <span>_____</span>
                     <Router-link to="/co">
                         <div class="llly2">
-                            <img src="c:\Users\User\Desktop\ecomerce\confirm.png" alt="cl">
+                            <img src="/src/views/image/confirm.png" alt="cl">
                             <p style="width :320px"> 3. Confirmation</p>
                            </div>
                         </Router-link>
@@ -68,7 +68,7 @@
             </div>
             <div class="section2 gridonly">
                 <div class="paly1">
-                    <img src="c:\Users\User\Desktop\ecomerce\undraw_completing_6bhr 1.png" alt="ph">
+                    <img src="/src/views/image/undraw_completing_6bhr 1.png" alt="ph">
                     <p style="font-size: 24px;color:#333333">Order Confirmed</p>
                     <p style="">Your order have been confirmed, please wait and</p>
                     <p style="padding-bottom:20px;">track your order</p>
@@ -81,11 +81,11 @@
                       
                         <div class="shipping-info">
                             <div class="div1">
-                            <img src="c:\Users\User\Desktop\ecomerce\time.png" alt="time">
+                            <img src="/src/views/image/time.png" alt="time">
                            <p> 10 days Delivery Time</p>
                           </div>
                           <div class="div1">
-                           <img src="c:\Users\User\Desktop\ecomerce\courier (1).png" alt="car">
+                           <img src="/src/views/image/courier (1).png" alt="car">
                             <p> DHL Express  </p>
                             </div>
                         </div>
@@ -117,8 +117,8 @@
                            
                             
                             <div class="grand-total">
-                                <strong>Grand Total:</strong>
-                                <strong>Rp 2.702.000</strong>
+                                <p>Grand Total</p>
+                               <p> Rp 2.702.000</p>
                             </div>
                         </div>
                 
@@ -185,6 +185,7 @@ footer{
     display: grid;
     align-content: center;
     gap:10px
+ 
    
 }
 .gridonly{
@@ -274,8 +275,9 @@ h2, h3 {
 
 .detail-row {
     display: flex;
-    gap: 10px;
-  padding-right: 200px;
+    gap: 80px;
+  padding-right: 20px;
+  
  
    
     
@@ -285,9 +287,17 @@ h2, h3 {
     
 }
 .grand-total {
+    display: inline-flex;
+    gap: 70px;
     font-size: 1.2rem;
     color: #333;
     font-weight: bold;
+    border: 1px solid #333;
+    border-left: none;
+    border-right: none;
+    padding: 10px;
+    color: #333;
+    width: 400px;
 }
 
 .shipping-address p {

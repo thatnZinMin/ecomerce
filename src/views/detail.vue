@@ -38,21 +38,21 @@
             <div class="section1 ">
             <Router-link to="/or">
                 <div class="llly2">
-                    <img src="c:\Users\User\Desktop\ecomerce\checkout.png" alt="cl">
+                    <img src="/src/views/image/checkout.png" alt="cl">
                     <p style="width :320px">1. Checkout</p>
                    </div>
                 </Router-link>
                     <span style="padding-top: 50px;">_____</span>
                 <Router-link to="/d">
                     <div class="llly2">
-                        <img src="c:\Users\User\Desktop\ecomerce\payment (3).png" alt="cl">
+                        <img src="/src/views/image/payment (3).png" alt="cl">
                         <p style="width :320px">2. Payment </p>
                        </div>
                     </Router-link>
                         <span style="padding-top: 50px;">_____</span>
                     <Router-link to="/co">
                         <div class="llly2">
-                            <img src="c:\Users\User\Desktop\ecomerce\confirm (3).png" alt="cl">
+                            <img src="/src/views/image/confirm (3).png" alt="cl">
                             <p style="width :320px">3. Confirmation</p>
                            </div>
                         </Router-link>
@@ -140,24 +140,24 @@
                <div class="grid ">
                     <div class="item-1">   
                         <div class="cell"><input type="radio"><p>BNI Cicilan 0%</p></div>
-                        <img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 46.png">
+                        <img src="/src/views/image/image 46.png">
                         </div>
                     <div class="item">  
                         <div class="cell"> <input type="radio">
                         <p>Mandiri Cicilan 0%</p></div>
-                        <img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 38.png" alt="img"></div>
+                        <img src="/src/views/image/image 38.png" alt="img"></div>
                     <div class="item">  <div class="cell"> <input type="radio"><p>Bank Transfer</p></div>
-                    <img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 45.png" alt="img">
+                    <img src="/src/views/image/image 45.png" alt="img">
                 </div>
                     <div class="in1">   <div class="cell"><input type="radio"><p>Credit Card</p>
                     <img src="" alt=""></div>
                     <div class="djff" style="display:flex;">
-                <img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 44.png" alt="img"><img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 37 (2).png" alt="img"></div></div>
+                <img src="/src/views/image/image 44.png" alt="img"><img src="/src/views/image/image 37 (2).png" alt="img"></div></div>
               
                     <div class="item"> <div class="cell"> <input type="radio"><p>Credit Card Cicilan 0% (Danamon, UOB & Standard Chartered)</p></div>
-                    <div class="djffs" style="display:inline-flex;gap:20px;">  <img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 43.png" alt="img"><img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 40 (1).png" alt="img"><img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 42.png" alt="img"></div></div>
-                    <div class="itemsc" style="">  <div class="celll"> <input type="radio"><p>GO-PAY</p></div> <img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 41 (1).png" alt=""></div>
-                    <div class="item"> <div class="celll"> <input type="radio"><p>Krdivo</p></div><img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 39.png" alt="img"></div>
+                    <div class="djffs" style="display:inline-flex;gap:20px;">  <img src="/src/views/image/image 43.png" alt="img"><img src="/src/views/image/image 40 (1).png" alt="img"><img src="/src/views/image/image 42.png" alt="img"></div></div>
+                    <div class="itemsc" style="">  <div class="celll"> <input type="radio"><p>GO-PAY</p></div> <img src="/src/views/image/image 41 (1).png" alt=""></div>
+                    <div class="item"> <div class="celll"> <input type="radio"><p>Krdivo</p></div><img src="/src/views/image/image 39.png" alt="img"></div>
                     
                </div>
               

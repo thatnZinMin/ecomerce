@@ -2,18 +2,18 @@
     <footer>
         <div class="footer-logos">
             <div class="layout-icon" >
-           <div class="icon1 grid--1"><img src="c:\Users\User\Desktop\ecomerce\image 25.png" alt="1"><img src="c:\Users\User\Desktop\ecomerce\image 32.png" alt="6"></div>
-           <div class="icon2 grid--1"><img src="c:\Users\User\Desktop\ecomerce\image 26.png" alt="2"><img src="c:\Users\User\Desktop\ecomerce\image 33.png" alt="7"></div>
-           <div class="icon3 grid--1"><img src="c:\Users\User\Desktop\ecomerce\image 27.png" alt="3"><img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 34.png" alt="8"></div>
-           <div class="icon4 grid--1"><img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 28.png" alt="4"><img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 35.png" alt="9"></div>
-           <div class="icon5 grid--1"><img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 29.png" alt="5"><img src="c:\Users\User\Desktop\ecomerce\src\views\image\image 36.png" alt="10"></div>
+           <div class="icon1 grid--1"><img src="/src/views/image/image 25.png" alt="1"><img src="/src/views/image/image 32.png" alt="6"></div>
+           <div class="icon2 grid--1"><img src="/src/views/image/image 26.png" alt="2"><img src="/src/views/image/image 33.png" alt="7"></div>
+           <div class="icon3 grid--1"><img src="/src/views/image/image 27.png" alt="3"><img src="/src/views/image/image 34.png" alt="8"></div>
+           <div class="icon4 grid--1"><img src="/src/views/image/image 28.png" alt="4"><img src="/src/views/image/image 35.png" alt="9"></div>
+           <div class="icon5 grid--1"><img src="/src/views/image/image 29.png" alt="5"><img src="/src/views/image/image 36.png" alt="10"></div>
           </div>
       
 
         <div class="footer-last grid-layout">
           
           <div class="last1">
-              <img src="c:\Users\User\Desktop\ecomerce\image 26.png" alt="logo">
+              <img src="/src/views/image/image 26.png" alt="logo">
               <p>Address<br>
                   Store & Office<br>
                   Jl. Setrasari Kulon III, No. 10-12,<br> Sukarasa, Sukasari, Bandung, <br>Jawa Barat, Indonesia 40152</p><br>
@@ -34,11 +34,13 @@
                   <span >0811-235-9988</span> </p>
               </div>
 
+
+
                  <div class="footer-iconf">
-              <img src="c:\Users\User\Desktop\ecomerce\src\views\image\Facebook (1).png" alt="face">
-             <img src="c:\Users\User\Desktop\ecomerce\Instagram (1).png" alt="img">
-           <img src="c:\Users\User\Desktop\ecomerce\Twitter.png" alt="tw">
-           <img src="c:\Users\User\Desktop\ecomerce\Youtube.png" alt="yu">
+              <img src="/src/views/image/Facebook (1).png" alt="face">
+             <img src="/src/views/image/Instagram (1).png" alt="img">
+           <img src="/src/views/image/Twitter.png" alt="tw">
+           <img src="/src/views/image/Youtube.png" alt="yu">
                
                  </div>
                   

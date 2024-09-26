@@ -38,13 +38,13 @@
             <div class="main-herocontainer  grid-2--main"  >
                 <div class="cl1-main">
                     <div class="watches-colu">
-                        <img src="c:\Users\User\Desktop\ecomerce\image 37.png" alt="watch">
-                        <img src="c:\Users\User\Desktop\ecomerce\image-removebg-preview 1 (1).png" alt="watch">
-                        <img src="c:\Users\User\Desktop\ecomerce\image-removebg-preview1 1.png" alt="watch">
-                        <img src="c:\Users\User\Desktop\ecomerce\image-removebg-preview2 1.png" alt="watch">
+                        <img src="/src/views/image/image 37.png" alt="watch">
+                        <img src="/src/views/image/image-removebg-preview 1 (1).png" alt="watch">
+                        <img src="/src/views/image/image-removebg-preview1 1.png" alt="watch">
+                        <img src="/src/views/image/image-removebg-preview2 1.png" alt="watch">
                       
                     </div>
-                    <img src="c:\Users\User\Desktop\ecomerce\image 6 (3).png" alt="watch" class="img-cl1">
+                    <img src="/src/views/image/image 6 (3).png" alt="watch" class="img-cl1">
 
                 </div>
                 <div class="cl2-main" >
@@ -143,7 +143,7 @@
                 <div class="container-2-grid">
 
 
-                    <img src="c:\Users\User\Desktop\ecomerce\image 40.png" alt="watches">
+                    <img src="/src/views/image/image 40.png" alt="watches">
 
                 </div>
 
@@ -155,7 +155,7 @@
                   <div class="lay-con3">
                     <div class="img-section" style="width: 255px;height: 391px;background-color: #ffff;padding:30px 20px ">
                         <div class="img-3se" style="display: grid;line-height:  25px;gap: 10px;" >
-                            <img src="c:\Users\User\Desktop\ecomerce\src\views\image\Mask Group (7).png" alt="watch" style="width: 207px;height: 221px;">
+                            <img src="/src/views/image/Mask Group (7).png" alt="watch" style="width: 207px;height: 221px;">
                             <div class="leo1" style="display: grid;margin-right:140px ; "><h4>Rakai Ebony</h4>
                             <p>20% Off</p>
                         <p>Rp 1.500.000</p>
@@ -175,7 +175,7 @@
                   <div class="lay-con3">
                     <div class="img-section" style="width: 255px;height: 391px;background-color: #ffff;padding:30px 20px">
                         <div class="img-3se" style="display: grid;line-height:  25px;gap: 10px;" >
-                            <img src="c:\Users\User\Desktop\ecomerce\Mask Group (12).png" alt="watch" style="width: 207px;height: 221px;">
+                            <img src="/src/views/image/Mask Group (17).png" alt="watch" style="width: 207px;height: 221px;">
                             <div class="leo1" style="display: grid;margin-right:140px ; "><h4>Rakai Ebony</h4>
                             <p>20% Off</p>
                         <p>Rp 1.500.000</p>
@@ -191,7 +191,7 @@
                    <div class="lay-con3">
                     <div class="img-section" style="width: 255px;height: 391px;background-color: #ffff;padding:30px 20px ">
                         <div class="img-3se" style="display: grid;line-height:  25px;gap: 10px;" >
-                            <img src="c:\Users\User\Desktop\ecomerce\Mask Group (13).png" alt="watch" style="width: 207px;height: 221px;">
+                            <img src="/src/views/image/Mask Group (16).png" alt="watch" style="width: 207px;height: 221px;">
                             <div class="leo1" style="display: grid;margin-right:140px ; "><h4>Rakai Ebony</h4>
                             <p>20% Off</p>
                         <p>Rp 1.500.000</p>
@@ -207,7 +207,7 @@
                    <div class="lay-con3">
                     <div class="img-section" style="width: 255px;height: 391px;background-color: #ffff;padding:30px 20px ">
                         <div class="img-3se" style="display: grid;line-height:  25px;gap: 10px;" >
-                            <img src="c:\Users\User\Desktop\ecomerce\src\views\image\Mask Group (7).png" alt="watch" style="width: 207px;height: 221px;">
+                            <img src="/src/views/image/Mask Group (7).png" alt="watch" style="width: 207px;height: 221px;">
                             <div class="leo1" style="display: grid;margin-right:140px ; "><h4>Rakai Ebony</h4>
                             <p>20% Off</p>
                         <p>Rp 1.500.000</p>

@@ -4,7 +4,7 @@
 
         <div class="porbor">
           <div class="onebor">
-            <img src="c:\Users\User\Desktop\ecomerce\image 37 (1).png" alt="watch" style="background-color: #F1DDC9;padding:17px">
+            <!-- <img src="/src/views/image/image 37 (1).png" alt="watch" style="background-color: #F1DDC9;padding:17px"> -->
            <div class="lat">
             <P>Way Kambas Mini Ebony</P>
             <p>Rp 1.280.000</p>
@@ -38,7 +38,7 @@
        <hr style="width:1100px;margin-left:40px;background-color:#333">
         <div class="porbor">
           <div class="onebor">
-            <img src="c:\Users\User\Desktop\ecomerce\image 37 (1).png" alt="watch" style="background-color: #F1DDC9;padding:17px">
+            <img src="/src/views/image/image 37 (1).png" alt="watch" style="background-color: #F1DDC9;padding:17px">
            <div class="lat">
            <p>Sikka (Ebony & Maple)</p>
            <h3>Rp 1.264.000</h3>
