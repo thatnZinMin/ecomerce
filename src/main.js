@@ -3,6 +3,8 @@ import './style.css'
 import App from './App.vue'
 import { createWebHistory , createRouter } from 'vue-router'
 
+
+
 import HomeView from './views/home.vue'
 import AboutView from './views/search.vue'
 import Buy from './views/buy.vue'
@@ -34,6 +36,7 @@ const vuetify = createVuetify({
   components,
   directives,
 })
+
 
 const router = createRouter({
   history: createWebHistory (),

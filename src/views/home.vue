@@ -117,7 +117,7 @@
   
                       <div class="heartmain-1" style="display: flex;gap: 10px;">  
                            
-                           <div class="heart-1" style="display: flex;color:none;font-size: 24px;border: 1px red"><button style="background-color:#ffff;border: 1px solid #D84727;height:39px ;"><img src="c:\Users\User\Desktop\ecomerce\src\views\image\love.png" alt="heart"></button></div>
+                           <div class="heart-1" style="display: flex;color:none;font-size: 24px;border: 1px red"><button style="background-color:#ffff;border: 1px solid #D84727;height:39px ;"><img src="\src\views\image\love.png" alt="heart"></button></div>
                            <div class="heart-btn1" style="display: flex;width: 158px;height: 39px;border: 1px solid #D84727;background-color: #D84727;align-items: center;justify-content: center;">
                                <p>Add to cart</p>
   
@@ -137,7 +137,8 @@
   
                       <div class="heartmain-1" style="display: flex;gap: 10px;">  
                            
-                           <div class="heart-1" style="display: flex;color:none;font-size: 24px;border: 1px red"><button style="background-color:#ffff;border: 1px solid #D84727;height:39px ;"><img src="c:\Users\User\Desktop\ecomerce\src\views\image\love.png" alt="heart"></button></div>
+                           <div class="heart-1" style="display: flex;color:none;font-size: 24px;border: 1px red"><button style="background-color:#ffff;border: 1px solid #D84727;height:39px ;"><img src="git branch -M main
+                            \src\views\image\love.png" alt="heart"></button></div>
                            <div class="heart-btn1" style="display: flex;width: 158px;height: 39px;border: 1px solid #D84727;background-color: #D84727;align-items: center;justify-content: center;">
                                <p>Add to cart</p>
 
@@ -157,7 +158,7 @@
   
                       <div class="heartmain-1" style="display: flex;gap: 10px;">  
                            
-                           <div class="heart-1" style="display: flex;color:none;font-size: 24px;border: 1px red"><button style="background-color:#ffff;border: 1px solid #D84727;height:39px ;"><img src="\src\views\image\love.png" alt="heart"></button></div>
+                           <div class="heart-1" style="display: flex;color:none;font-size: 24px;border: 1px red"><button style="background-color:#ffff;border: 1px solid #D84727;height:39px ;"><img src="/src/views/image/love.png" alt="heart"></button></div>
                            <div class="heart-btn1" style="display: flex;width: 158px;height: 39px;border: 1px solid #D84727;background-color: #D84727;align-items: center;justify-content: center;">
                                <p>Add to cart</p>
   
@@ -333,10 +334,11 @@
   </template>
 
 <script>
-import { RouterLink } from 'vue-router';
+
 
 import Footer from '../views/footer.vue'
   export default{
+    name: "App",
     components: {
         Footer
   },
